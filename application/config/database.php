@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'sql_home_aoec_vn',
-	'password' => 'RxWACrC68rHdLJwC',
+	'hostname' => '127.0.0.1',
+	'username' => 'root',
+	'password' => null,
 	'database' => 'sql_home_aoec_vn',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
